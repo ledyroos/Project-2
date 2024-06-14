@@ -1,0 +1,3 @@
+Halo dunia, nama saya adalah Ledy
+
+Sekarang saya sedang belajar git dan github
